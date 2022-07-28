@@ -1,2 +1,2 @@
 # Python_lessons
-This Repository is consists of my Lesson in Python
+This Repository consists of my Lesson in Python
